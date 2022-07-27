@@ -1,7 +1,7 @@
 ### Hello there
 
-- 🇫🇷 I’m a young French developper
-- 🌱 I’m currently learning Python, Javascript and NodeJs
+- 🇫🇷 I am a French student passionate about computer science
+- 🌱 I’m currently learning Python, Javascript, NodeJs and a bit of C# with Unity
 
 <hr>
 
