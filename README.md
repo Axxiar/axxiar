@@ -5,7 +5,7 @@
 
 ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=303030&style=for-the-badge) ![](https://img.shields.io/badge/NodeJS-339933?logo=nodedotjs&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/Ocaml-EC6813?logo=ocaml&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=FFFFFFF&style=for-the-badge)
 
-![](https://img.shields.io/badge/Unity-303030?logo=unity&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/GIT-7F5AB6?logo=gnuemacs&logoColor=FFFFFF&style=for-the-badge)
+![](https://img.shields.io/badge/Unity-303030?logo=unity&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/EMACS-7F5AB6?logo=gnuemacs&logoColor=FFFFFF&style=for-the-badge)
 <hr>
 
 ![Metrics](https://metrics.lecoq.io/Axxiar?template=classic&lines=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Europe%2FBerlin)
