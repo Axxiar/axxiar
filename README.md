@@ -3,7 +3,7 @@
 ### Hello there :wave:
 
 - :fr: I am a French student passionate about computer science
-- :books: I’m currently learning (listed in order of knowledge) :
+- :books: I’m currently learning (amongst other things) :
 
 `Languages`
 
