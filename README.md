@@ -11,5 +11,5 @@
 
 `Tools`
 
-![](https://img.shields.io/badge/Vim-019533?logo=vim&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/Unity-303030?logo=unity&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/NodeJS-339933?logo=nodedotjs&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/Django-0c3c26?logo=django&logoColor=FFFFFF&style=for-the-badge)
+![](https://img.shields.io/badge/Vim-019533?logo=vim&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/Unity-303030?logo=unity&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/NodeJS-339933?logo=nodedotjs&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/Django-0c3c26?logo=django&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/Svelte-ffffff?logo=svelte&logoColor=ff3e00&style=for-the-badge)
 <hr>
