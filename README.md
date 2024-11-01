@@ -2,8 +2,8 @@
 
 ### Hello there :wave:
 
-- :fr: I am a French student passionate about computer science
-- :books: I’m currently learning (amongst other things) :
+- :fr: French student passionate about computer science
+- :books: Things i learn (amongst others) :
 
 `Languages`
 
