@@ -3,7 +3,7 @@
 ### Hello there :wave:
 
 - :fr: French student passionate about computer science
-- :books: Things i learn (amongst others) :
+- :books: Things i'm learning (amongst others) :
 
 `Languages`
 
