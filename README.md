@@ -7,7 +7,7 @@
 
 `Languages`
 
-![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/C-5c6bc0?logo=c&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=FFFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/Lua-010080?logo=lua&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=303030&style=for-the-badge) ![](https://img.shields.io/badge/Ocaml-EC6813?logo=ocaml&logoColor=FFFFFF&style=for-the-badge) 
+![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/C-5c6bc0?logo=c&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/Bash-293137?logo=gnubash&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=FFFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/Lua-010080?logo=lua&logoColor=FFFFFF&style=for-the-badge) ![](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=303030&style=for-the-badge) ![](https://img.shields.io/badge/Ocaml-EC6813?logo=ocaml&logoColor=FFFFFF&style=for-the-badge)
 
 `Tools`
 
