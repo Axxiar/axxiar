@@ -5,6 +5,12 @@
 - :fr: French student passionate about computer science
 - :gear: Currently focused on security, low level and systems
 
+### Writeups
+
+I enjoy taking part in [CTF](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) competitions and writing about stuff I do.
+
+You can find some of my writeups here : https://axxiar.github.io/writeups/
+
 <details>
 <summary>
   
